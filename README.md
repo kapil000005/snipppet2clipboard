@@ -43,6 +43,9 @@ ${HOME}/.snippet
 # directly launch via rofi dmenu or by terminal (not recommended beacuse then it ends it reason ) 
 ```
 
-./Demo-2026-11-14_02.28.48.mp4
+## Demo
+
+<video src="https://github.com/kapil000005/snipppet2clipboard/blob/main/Demo-2026-11-14_02.28.48.mp4?raw=true" controls="controls" style="max-width: 100%;">
+</video>
 
 THE END
