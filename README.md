@@ -45,7 +45,8 @@ ${HOME}/.snippet
 
 ## Demo
 
-<video src="https://github.com/kapil000005/snipppet2clipboard/blob/main/Demo-2026-11-14_02.28.48.mp4?raw=true" controls="controls" style="max-width: 100%;">
-</video>
+
+https://github.com/user-attachments/assets/92ed718e-e7e7-4bbe-921d-7289a45d8161
+
 
 THE END
