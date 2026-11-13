@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Snippet
+Comment=Select and copy custom snippets via Rofi
+Exec=/bin/snippet
+Terminal=false
+Type=Application
+Categories=Utility;
