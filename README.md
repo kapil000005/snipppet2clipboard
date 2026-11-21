@@ -24,7 +24,7 @@ unzip main.zip
 cd snipppet2clipboard-main
 
 chmod +x ./snippet
-sudo mv  ./snippet /bin/snippet
+sudo mv  ./snippet.sh /bin/snippet
 sudo mv ./snippet.desktop  /usr/share/applications/snippet.desktop
    
 ```
